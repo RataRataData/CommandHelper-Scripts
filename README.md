@@ -1,4 +1,4 @@
-ch_scripts
+CommandHelper
 ==========
 
 CommandHelper Scripts
